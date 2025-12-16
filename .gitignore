@@ -1,0 +1,8 @@
+# Executable files
+main
+game
+*.out
+*.o
+
+# Output folders
+output/
